@@ -1,0 +1,36 @@
+#letter {
+
+  display: none;
+
+}
+#letter p{
+  font-size: 12px;
+}
+/* .sign-off{
+  float: right;
+  font-size: 12px;
+} */
+.panel{
+  font-family: cursive;
+  padding: 10px;
+  border: solid 2px;
+  float: left;
+}
+
+.panel h2{
+  float: right;
+  font-size: 12px;
+  margin-right: 10%;
+  font-family: cursive;
+}
+
+.panel h1{
+  font-family: cursive;
+}
+
+.panel .sender{
+  font-family: fantasy;
+}
+ .panel .person{
+   font-family: fantasy;
+ }
